@@ -1,0 +1,21 @@
+{
+  "name": "deloz/Shoukanjuu",
+  "description": "simple PHP Framework",
+  "keywords": ["framework", "php", "simple", "Shoukanjuu"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Deloz",
+      "email": "NpmBot@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "classmap": ["app/"],
+    "psr-4": {
+      "Shoukanjuu\\": "src/"
+    }
+  }
+}
