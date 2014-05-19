@@ -1,4 +1,4 @@
 shoukanjuu
 ==========
 
-a PHP Framework like Express.js
+a PHP Framework usage like Express.js
